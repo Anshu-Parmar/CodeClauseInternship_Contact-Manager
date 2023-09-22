@@ -4,11 +4,11 @@ complete with profile pictures, all stored securely on Firebase storage. The cap
 
 UI components:-
 <p float="left">
-  <img src="https://github.com/Anshu-Parmar/Contact-Manager/assets/92868018/3af6dcde-4162-4882-b01f-76f7641a6d99" width="200" height="400" hspace="10"/>
-  <img src="https://github.com/Anshu-Parmar/Contact-Manager/assets/92868018/6a38498c-3fde-43c4-a6d2-1b8055e68854" width="200" height="400" hspace="10"/>
+  <img src="https://github.com/Anshu-Parmar/Contact-Manager/assets/92868018/d78e5dc9-6115-4914-ac10-4f353541db67" width="200" height="400" hspace="10"/>
+  <img src="https://github.com/Anshu-Parmar/Contact-Manager/assets/92868018/b1273f4a-df3c-490e-afea-b383465b6050" width="200" height="400" hspace="10"/>
   <br><br>
-  <img src="https://github.com/Anshu-Parmar/Contact-Manager/assets/92868018/cd4b9d5b-66e3-400f-831b-4de4d1042144" width="200" height="400" hspace="10"/>
-  <img src="https://github.com/Anshu-Parmar/Contact-Manager/assets/92868018/6f3b692b-464e-4fee-9d17-cb2a11da8db2" width="200" height="400" hspace="10"/>
+  <img src="https://github.com/Anshu-Parmar/Contact-Manager/assets/92868018/8ca9cba9-e11c-4b7f-8cac-ca60c80d6121" width="200" height="400" hspace="10"/>
+  <img src="https://github.com/Anshu-Parmar/Contact-Manager/assets/92868018/e79c2522-00a4-4316-af5f-ffe442a11814" width="200" height="400" hspace="10"/>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
